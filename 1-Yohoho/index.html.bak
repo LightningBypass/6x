@@ -120,7 +120,7 @@
                     </div>
                 </div>
                 <div class="bottom-bar">
-                    <div class="io-games-bar" id="portal-button"><a class="button back" title="Play more IO Games" href="https://www.crazygames.com/c/io" target="_blank">More IO Games</a></div>
+                    <div class="io-games-bar" id="portal-button"><a class="button back" title="Play more IO Games" href="https://classroom20x.github.io/" target="_blank">More IO Games</a></div>
                 </div>
                 <div class="logo">
                     <h1 class="title">
@@ -136,6 +136,7 @@
                     <div class="left-box">
                         <div class="inside">
                             <div class="box">
+							<a target="_blank" href="https://classroom20x.github.io/"><button id="play-button" type="button" class="red button animated pulse">ALL G4M3S</button></a>
                                 <div class="title">How to Play</div>
                                 <div>Collect doubloons to get bigger</div>
                                 <div>Kill other players to collect their booty</div>
